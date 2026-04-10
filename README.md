@@ -1,4 +1,3 @@
-# infovis
 <!DOCTYPE html>
 <html>
 <head>
